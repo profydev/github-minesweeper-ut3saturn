@@ -26,7 +26,13 @@
 	"Flag F2",
 	"Clear A4", 
 	"Clear A2",
-	"Clear B3"
+	"Clear B3", 
+	"Clear B2",
+	"Clear A3",
+	"Clear B5",
+	"Flag B1",
+	"Flag B4",
+	"Flag A5"
 	
   ]
 }
