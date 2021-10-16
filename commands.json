@@ -15,7 +15,12 @@
 	"Clear H5",
 	"Clear H6",
 	"Clear H7",
-	"Flag H8"
+	"Flag H8",
+	"Clear C5",
+	"Clear C4",
+	"Clear D4",
+	"Clear E4",
+	"Flag F4"
 	
   ]
 }
